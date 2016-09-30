@@ -1,0 +1,10 @@
+Sep 28, 2016 1:19:31 PM HttpRequest doGet
+INFO: HttpRequest.doGet(http://player3.noterik.com:8081/bart/domain/euscreenxl/user/)
+Sep 28, 2016 1:19:33 PM HttpRequest lambda$1
+INFO: Getting: eu_dr
+Sep 28, 2016 1:19:33 PM HttpRequest doGet
+INFO: HttpRequest.doGet(http://player3.noterik.com:8081/bart/domain/euscreenxl/user/eu_dr/video)
+Sep 28, 2016 1:19:40 PM HttpRequest lambda$1
+INFO: Video found: 4032
+Sep 28, 2016 1:19:40 PM HttpRequest doGet
+INFO: HttpRequest.doGet(http://player3.noterik.com:8081/bart/domain/euscreenxl/user/eu_dr/picture)
